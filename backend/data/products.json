@@ -1,0 +1,173 @@
+[
+    {
+      "name": "Product 1",
+      "price": "$39.99",
+      "description": "A versatile product for your everyday needs.",
+      "ratings": "4.2",
+      "images": [
+        {
+          "image": "https://example.com/product1_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product1_image2.jpg"
+        }
+      ],
+      "category": "Home & Kitchen",
+      "seller": "Quality Goods Co.",
+      "stock": "50"
+    },
+    {
+      "name": "Product 2",
+      "price": "$29.99",
+      "description": "Compact and efficient, ideal for small spaces.",
+      "ratings": "3.8",
+      "images": [
+        {
+          "image": "https://example.com/product2_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product2_image2.jpg"
+        }
+      ],
+      "category": "Furniture",
+      "seller": "FurnishMe Now",
+      "stock": "30"
+    },
+    {
+      "name": "Product 3",
+      "price": "$19.99",
+      "description": "Fashionable and trendy, a must-have accessory.",
+      "ratings": "4.5",
+      "images": [
+        {
+          "image": "https://example.com/product3_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product3_image2.jpg"
+        }
+      ],
+      "category": "Fashion",
+      "seller": "Style Central",
+      "stock": "100"
+    },
+    {
+      "name": "Product 4",
+      "price": "$99.99",
+      "description": "High-quality material for durability and longevity.",
+      "ratings": "4.8",
+      "images": [
+        {
+          "image": "https://example.com/product4_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product4_image2.jpg"
+        }
+      ],
+      "category": "Sports & Outdoors",
+      "seller": "Outdoor Essentials",
+      "stock": "20"
+    },
+    {
+      "name": "Product 5",
+      "price": "$149.99",
+      "description": "Cutting-edge technology for superior performance.",
+      "ratings": "4.9",
+      "images": [
+        {
+          "image": "https://example.com/product5_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product5_image2.jpg"
+        }
+      ],
+      "category": "Electronics",
+      "seller": "Tech Innovations Ltd.",
+      "stock": "75"
+    },
+    {
+      "name": "Product 6",
+      "price": "$79.99",
+      "description": "Sleek design with multiple functions.",
+      "ratings": "4.6",
+      "images": [
+        {
+          "image": "https://example.com/product6_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product6_image2.jpg"
+        }
+      ],
+      "category": "Appliances",
+      "seller": "Home Essentials Inc.",
+      "stock": "45"
+    },
+    {
+      "name": "Product 7",
+      "price": "$199.99",
+      "description": "Luxurious and elegant, perfect for special occasions.",
+      "ratings": "4.7",
+      "images": [
+        {
+          "image": "https://example.com/product7_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product7_image2.jpg"
+        }
+      ],
+      "category": "Beauty",
+      "seller": "Glamour Boutique",
+      "stock": "15"
+    },
+    {
+      "name": "Product 8",
+      "price": "$59.99",
+      "description": "Comfortable and stylish, suitable for all seasons.",
+      "ratings": "4.4",
+      "images": [
+        {
+          "image": "https://example.com/product8_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product8_image2.jpg"
+        }
+      ],
+      "category": "Clothing",
+      "seller": "Fashion Zone",
+      "stock": "60"
+    },
+    {
+      "name": "Product 9",
+      "price": "$129.99",
+      "description": "Durable construction for heavy-duty use.",
+      "ratings": "4.3",
+      "images": [
+        {
+          "image": "https://example.com/product9_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product9_image2.jpg"
+        }
+      ],
+      "category": "Tools & Home Improvement",
+      "seller": "ToolMaster Ltd.",
+      "stock": "25"
+    },
+    {
+      "name": "Product 10",
+      "price": "$69.99",
+      "description": "Versatile and practical, a must-have for every household.",
+      "ratings": "4.6",
+      "images": [
+        {
+          "image": "https://example.com/product10_image1.jpg"
+        },
+        {
+          "image": "https://example.com/product10_image2.jpg"
+        }
+      ],
+      "category": "Home Essentials",
+      "seller": "Household Supplies Co.",
+      "stock": "80"
+    }
+  ]
+  
